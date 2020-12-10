@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="Publics/css/style.css">
     <link rel="stylesheet" href="Publics/css/content.css">
 </head>
-<body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="50" >
+<body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="80" >
 
 <!-- header -->
 <?php
@@ -118,8 +118,7 @@ include ('navigation.php');
             </div>
         </div>
     </div>
-
-    <div id="menu3"  class="containerVision">
+    <div id="menu3"  class="containerMot">
                 <h2 id="vision">VISION</h2>
         <div class="row">
                 <div class="col-md-4">

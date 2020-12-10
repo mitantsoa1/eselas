@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="Publics/css/style.css">
     <link rel="stylesheet" href="Publics/css/content.css">
 </head>
-<body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="50" >
+<body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="200" >
 
 <!-- header -->
 <?php

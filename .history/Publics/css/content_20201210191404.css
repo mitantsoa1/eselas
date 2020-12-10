@@ -15,23 +15,15 @@ h2 {
 
 .containerMot {
     background-color: rgba(100, 148, 237, 0.194);
-    height: 400px;
-}
-
-.containerVision {
-    background-color: rgba(100, 148, 237, 0.194);
-    height: 400px;
-    padding-top: 10px;
 }
 
 #mot {
-    margin-top: 20px;
-    margin-bottom: 40px;
-    padding-top: 20px;
+    margin: 10px;
+    /* padding-bottom: 50px; */
 }
 
 #mission {
-    margin: 30px;
+    margin: 50px;
     color: rgb(35, 17, 192);
 }
 
@@ -63,7 +55,7 @@ h2 {
 }
 
 #vision {
-    margin-top: 20px;
+    margin: 30px;
 }
 
 #title5 {

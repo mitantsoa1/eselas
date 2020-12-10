@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="Publics/css/style.css">
     <link rel="stylesheet" href="Publics/css/content.css">
 </head>
-<body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="50" >
+<body id="page-top" data-spy="scroll" data-target=".navbar" data-offset="80" >
 
 <!-- header -->
 <?php
@@ -67,8 +67,8 @@ include ('navigation.php');
             </div>
     </div>
         <!-- fin Caroussel -->
- <div class="container">
-    <div id="menu1" class="containerMot" >
+ <div class="containerMot container">
+     <div id="menu1">
             <h2 id="mot">MOT</h2>
         <div class="row">
             <div class="col-md-5">
@@ -118,8 +118,7 @@ include ('navigation.php');
             </div>
         </div>
     </div>
-
-    <div id="menu3"  class="containerVision">
+    <div id="menu3">
                 <h2 id="vision">VISION</h2>
         <div class="row">
                 <div class="col-md-4">

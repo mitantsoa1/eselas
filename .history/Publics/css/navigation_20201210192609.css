@@ -77,11 +77,6 @@ nav ul li a .fa {
     color: rgba(35, 35, 241, 0.549) !important;
 }
 
-#mainNav,
-#navbarResponsive {
-    height: 50px !important;
-}
-
 @media (max-width: 991px) {
     .navbar .navbar-nav {
         height: auto;

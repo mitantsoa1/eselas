@@ -20,8 +20,7 @@ h2 {
 
 .containerVision {
     background-color: rgba(100, 148, 237, 0.194);
-    height: 400px;
-    padding-top: 10px;
+    height: 450px;
 }
 
 #mot {
@@ -63,7 +62,7 @@ h2 {
 }
 
 #vision {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 #title5 {
