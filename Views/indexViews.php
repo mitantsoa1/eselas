@@ -19,7 +19,7 @@ include ('navigation.php');
 ?>
         <!-- fin header -->
 
-    <div class="container" style=" padding-top: 10px;">
+    <div class="container-fluid" id="page-top" style=" padding-top: 10px;">
             <div id="monCarousel" class="carousel slide" data-ride="carousel" style="height:500px;">
                 <ol class="carousel-indicators">
                     <li data-target="#monCarousel" data-slide-to="0" class="active"></li>

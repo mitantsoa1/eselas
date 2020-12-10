@@ -82,6 +82,11 @@ nav ul li a .fa {
     height: 50px !important;
 }
 
+#logo {
+    position: relative;
+    top: -0px;
+}
+
 @media (max-width: 991px) {
     .navbar .navbar-nav {
         height: auto;
