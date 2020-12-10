@@ -72,7 +72,7 @@ include ('navigation.php');
             <h2 id="mot">MOT</h2>
         <div class="row">
             <div class="col-md-5">
-                <div class="title" id="title1"><img class="imgMot" src="Publics/images/feature-img1" alt=""></div>  
+                <div class="title" id="title1"><img class=" imgMot" src="Publics/images/feature-img1" alt=""></div>  
             </div>
             <div class="col-md-7">
                 <div class="title" id="contenu1">
@@ -122,7 +122,7 @@ include ('navigation.php');
                 <h2 id="vision">VISION</h2>
         <div class="row">
                 <div class="col-md-4">
-                    <div class="title" id="title5"><img class="imgMot" src="Publics/image/slider-1.jpg" alt=""></div>  
+                    <div class="title" id="title5"><img class="imgMot src="Publics/image/slider-1.jpg" alt=""></div>  
                 </div>
                 <div class="col-md-4">
                     <div class="title" id="contenu5">

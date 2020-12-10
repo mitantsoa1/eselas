@@ -68,29 +68,26 @@ include ('navigation.php');
     </div>
         <!-- fin Caroussel -->
  <div class="content container">
-     <div id="menu1">
-            <h2 id="mot">MOT</h2>
-        <div class="row">
-            <div class="col-md-5">
-                <div class="title" id="title1"><img class="imgMot" src="Publics/images/feature-img1" alt=""></div>  
-            </div>
-            <div class="col-md-7">
-                <div class="title" id="contenu1">
-                    <p> 
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias excepturi temporibus neque repellendus vel vitae nihil? Vel, nihil. Vitae minima laborum fuga cupiditate vero porro aspernatur assumenda voluptas ex officia?
-                    </p>
-                    <p> 
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias excepturi temporibus neque repellendus vel vitae nihil? Vel, nihil. Vitae minima laborum fuga cupiditate vero porro aspernatur assumenda voluptas ex officia?
-                    </p>
-                    <p> 
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias excepturi temporibus neque repellendus vel vitae nihil? Vel, nihil. Vitae minima laborum fuga cupiditate vero porro aspernatur assumenda voluptas ex officia?
-                    </p>
+        <h2 id="mot">MOT</h2>
+    <div class="row">
+        <div class="col-md-5">
+            <div class="title" id="title1"><img class=" imgMot" src="Publics/images/feature-img1" alt=""></div>  
+        </div>
+        <div class="col-md-7">
+            <div class="title" id="contenu1">
+                <p> 
+                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias excepturi temporibus neque repellendus vel vitae nihil? Vel, nihil. Vitae minima laborum fuga cupiditate vero porro aspernatur assumenda voluptas ex officia?
+                </p>
+                <p> 
+                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias excepturi temporibus neque repellendus vel vitae nihil? Vel, nihil. Vitae minima laborum fuga cupiditate vero porro aspernatur assumenda voluptas ex officia?
+                </p>
+                <p> 
+                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias excepturi temporibus neque repellendus vel vitae nihil? Vel, nihil. Vitae minima laborum fuga cupiditate vero porro aspernatur assumenda voluptas ex officia?
+                </p>
 
-                </div>  
-            </div>
+            </div>  
         </div>
     </div>
-    <div id="menu2">
         <h2 id="mission">MISSION</h2>
         <div class="row">
             <div class="col-md-5">
@@ -117,48 +114,108 @@ include ('navigation.php');
                 </div>  
             </div>
         </div>
-    </div>
-    <div id="menu3">
-                <h2 id="vision">VISION</h2>
-        <div class="row">
-                <div class="col-md-4">
-                    <div class="title" id="title5"><img class="imgMot" src="Publics/image/slider-1.jpg" alt=""></div>  
-                </div>
-                <div class="col-md-4">
-                    <div class="title" id="contenu5">
-                        <p> 
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, assumenda.
-                        </p>
-                        <p> 
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, aut voluptatibus aperiam, ipsa odit itaque harum similique corrupti consectetur mollitia ea earum accusamus molestias tempore vero dolor necessitatibus a officia.Vitae at inventore harum? Suscipit incidunt, id eius repellendus totam dolore aut praesentium accusamus, impedit ut optio. Animi numquam possimus recusandae unde minus, sed sapiente quisquam rem totam eum vero.0.
-                        </p>
-                        <p> 
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, assumenda.
-                        </p>
-                    </div>  
-                </div>
-                <div class="col-md-4">
-                    <div class="title" id="contenu6">
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, accusamus.
-                        </p>
-                        <p> 
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, aut voluptatibus aperiam, ipsa odit itaque harum similique corrupti consectetur mollitia ea earum accusamus molestias tempore vero dolor necessitatibus a officia.Vitae at inventore harum? Suscipit incidunt, id eius repellendus totam dolore aut praesentium accusamus, impedit ut optio. Animi numquam possimus recusandae unde minus, sed sapiente quisquam rem totam eum vero.0.
-                        </p>
-                        </div>  
-                </div>
+        <h2>VISION</h2>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="title" id="title5"><img class="imgMot" src="Publics/image/slider-1.jpg" alt=""></div>  
         </div>
+        <div class="col-md-4">
+            <div class="title" id="contenu5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, assumenda.</div>  
+        </div>
+        <div class="col-md-4">
+            <div class="title" id="contenu6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, accusamus.</div>  
+        </div>
+ </div>
+
+     <div>
+        <h1 id="menu1">Eselas1</h1>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+
+        <h1 id="menu2">Eselas2</h1>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h1 id="menu3">Eselas3</h1>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h1 id="menu4">Eselas4</h1>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h1 id="menu5">Eselas5</h1>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
+        <h2>contenu</h2>
     </div>
- <!-------------------------------------------------------- fin Content -------------------------------------->
-            
-                <h2 class="text-center" id="menu4">TitreF</h2>
-                <div class="container" >
-                <div class="row" >
-                    <section class="article">
-                        
-                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
-                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
-                    </section>
+
+            <div class="container" id="content">
+                <div class="row">
+                <section class="article">
+                    <h2 class="text-center">Titre</h2>
+                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
+                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
+                </section>
+                    <div class="col-md-6">
+                        <section class="article2">
+                            <h2 class="text-center">Titre</h2>
+                            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
+                            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
+                            <input type="button" value="Read More">
+                        </section>
+                        <section class="article2">
+                            <div>
+                                <h2 class="text-center">Titre</h2>
+                                <img src="image/forza-motorsport-4_1920x1080.jpg" alt="">
+                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint hic distinctio tempora commodi quam laborum suscipit? Dignissimos asperiores esse odio similique necessitatibus provident minima molestiae consequuntur vitae nulla, totam animi?</p>
+                                <input type="button" value="Read More">
+                            </div>
+                        </section>
+                    </div>
+                                              
+                
                         <div class="col-md-6">
                             <section class="article2">
                                 <h2 class="text-center">Titre</h2>
@@ -175,24 +232,6 @@ include ('navigation.php');
                                 </div>
                             </section>
                         </div>
-                                                
-                    
-                            <div class="col-md-6">
-                                <section class="article2">
-                                    <h2 class="text-center">Titre</h2>
-                                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
-                                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
-                                    <input type="button" value="Read More">
-                                </section>
-                                <section class="article2">
-                                    <div>
-                                        <h2 class="text-center">Titre</h2>
-                                        <img src="image/forza-motorsport-4_1920x1080.jpg" alt="">
-                                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint hic distinctio tempora commodi quam laborum suscipit? Dignissimos asperiores esse odio similique necessitatibus provident minima molestiae consequuntur vitae nulla, totam animi?</p>
-                                        <input type="button" value="Read More">
-                                    </div>
-                                </section>
-                            </div>
                 </div>  
                 
                 <footer>

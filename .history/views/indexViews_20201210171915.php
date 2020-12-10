@@ -72,7 +72,7 @@ include ('navigation.php');
             <h2 id="mot">MOT</h2>
         <div class="row">
             <div class="col-md-5">
-                <div class="title" id="title1"><img class="imgMot" src="Publics/images/feature-img1" alt=""></div>  
+                <div class="title" id="title1"><img class=" imgMot" src="Publics/images/feature-img1" alt=""></div>  
             </div>
             <div class="col-md-7">
                 <div class="title" id="contenu1">
@@ -150,12 +150,10 @@ include ('navigation.php');
         </div>
     </div>
  <!-------------------------------------------------------- fin Content -------------------------------------->
-            
-                <h2 class="text-center" id="menu4">TitreF</h2>
-                <div class="container" >
+            <div class="container" id="#menu4">
                 <div class="row" >
-                    <section class="article">
-                        
+                    <section class="article" >
+                        <h2 class="text-center">Titre</h2>
                         <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
                         <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
                     </section>

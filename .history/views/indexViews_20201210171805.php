@@ -72,7 +72,7 @@ include ('navigation.php');
             <h2 id="mot">MOT</h2>
         <div class="row">
             <div class="col-md-5">
-                <div class="title" id="title1"><img class="imgMot" src="Publics/images/feature-img1" alt=""></div>  
+                <div class="title" id="title1"><img class=" imgMot" src="Publics/images/feature-img1" alt=""></div>  
             </div>
             <div class="col-md-7">
                 <div class="title" id="contenu1">
@@ -150,15 +150,31 @@ include ('navigation.php');
         </div>
     </div>
  <!-------------------------------------------------------- fin Content -------------------------------------->
-            
-                <h2 class="text-center" id="menu4">TitreF</h2>
-                <div class="container" >
-                <div class="row" >
-                    <section class="article">
-                        
-                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
-                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
-                    </section>
+            <div class="container" id="content">
+                <div class="row" id="#menu4">
+                <section class="article" >
+                    <h2 class="text-center">Titre</h2>
+                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
+                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
+                </section>
+                    <div class="col-md-6">
+                        <section class="article2">
+                            <h2 class="text-center">Titre</h2>
+                            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
+                            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
+                            <input type="button" value="Read More">
+                        </section>
+                        <section class="article2">
+                            <div>
+                                <h2 class="text-center">Titre</h2>
+                                <img src="image/forza-motorsport-4_1920x1080.jpg" alt="">
+                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint hic distinctio tempora commodi quam laborum suscipit? Dignissimos asperiores esse odio similique necessitatibus provident minima molestiae consequuntur vitae nulla, totam animi?</p>
+                                <input type="button" value="Read More">
+                            </div>
+                        </section>
+                    </div>
+                                              
+                
                         <div class="col-md-6">
                             <section class="article2">
                                 <h2 class="text-center">Titre</h2>
@@ -175,24 +191,6 @@ include ('navigation.php');
                                 </div>
                             </section>
                         </div>
-                                                
-                    
-                            <div class="col-md-6">
-                                <section class="article2">
-                                    <h2 class="text-center">Titre</h2>
-                                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
-                                    <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis eveniet, aliquid voluptates, <span class="bleu"> ipsa nesciunt reprehenderit </span> suscipit autem, nulla tempora voluptate ipsam laborum facere obcaecati doloremque <span class="bleu"> doloribus placeat.</span>            Ab, sapiente quis!</p>
-                                    <input type="button" value="Read More">
-                                </section>
-                                <section class="article2">
-                                    <div>
-                                        <h2 class="text-center">Titre</h2>
-                                        <img src="image/forza-motorsport-4_1920x1080.jpg" alt="">
-                                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint hic distinctio tempora commodi quam laborum suscipit? Dignissimos asperiores esse odio similique necessitatibus provident minima molestiae consequuntur vitae nulla, totam animi?</p>
-                                        <input type="button" value="Read More">
-                                    </div>
-                                </section>
-                            </div>
                 </div>  
                 
                 <footer>

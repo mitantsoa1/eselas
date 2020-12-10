@@ -26,7 +26,7 @@
                         <a href="#menu4" class="js-scroll-trigger">Menu4</a>
                     </li>
                     <li>
-                        <a href="connecter" class="js-scroll-trigger" id="SeConnecter">Se connecter</a>
+                        <a href="#menu5" class="js-scroll-trigger" id="SeConnecter">Se connecter</a>
                     </li>
                 </ul>
             </div>
