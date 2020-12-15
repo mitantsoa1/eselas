@@ -1,0 +1,31 @@
+#contenu {
+    width: 100%;
+}
+
+img {
+    max-width: 95%;
+    max-height: 500px;
+}
+
+#b {
+    float: right;
+    position: relative;
+    top: -30px;
+}
+
+.titre2 {
+    color: red;
+}
+
+h4 {
+    margin-bottom: 50px;
+    display: inline;
+}
+
+td {
+    margin-bottom: 50px;
+}
+
+.date {
+    margin: 50px;
+}
