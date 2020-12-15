@@ -81,7 +81,6 @@
             if(!isset($_SESSION['user'])){
                 echo "<h2 class='text-center'>Vous devez connecter</h2>";
                 self::loadView("erreur.php");
-                echo ' <a href="connecter" name="btnCo" id="btnCo" class="btn btn-primary text-center">Se connecter</a>';
             }else{
                 self::loadView("francais.php");
             }   

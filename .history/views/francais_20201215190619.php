@@ -13,7 +13,7 @@
     
         <h2 class="text-center titre2">français</h2>
         <button name="b" id="b" class="btn btn-info">Publier</button>
-        <a href="deconnexion" name="btnDeco" id="btnDeco" class="btn btn-danger"  onclick="return confirm('Se deconnecter?')">Se deconnecter</a>
+        <a href="deconnexion" name="btnDeco" id="btnDeco" class="btn btn-danger">Se deconnecter</a>
         <form action="publierFr" method="POST" id="formFR" enctype="multipart/form-data" class="hide">
             <div class="form-group">
                 <label for="titre">Titre:</label>

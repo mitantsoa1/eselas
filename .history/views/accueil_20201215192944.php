@@ -17,7 +17,7 @@ if(!isset($_SESSION['user'])){
     <link rel="stylesheet" href="Publics/vendor4/font-awesome4/css/font-awesome.css">
     <link rel="stylesheet" href="Publics/css/style.css">
     <link rel="stylesheet" href="Publics/navigation.css">
-    <link rel="stylesheet" href="Publics/css/accueil.css">
+    <link rel="stylesheet" href="Publics/accueil.css">
 
 
 </head>
@@ -36,7 +36,7 @@ if(!isset($_SESSION['user'])){
                     <span class="icon-bar"></span>                        
                 </button>
                 <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                    <img class="img" id="logoC" src="Publics/images/LOGOESELAS.png" alt="Logo ">
+                    <img class="img" id="logoC" src="Publics/image/page3-img1.png" alt="Logo ">
                 </a>
             </div>
         

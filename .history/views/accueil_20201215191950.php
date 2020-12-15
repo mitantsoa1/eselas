@@ -17,7 +17,6 @@ if(!isset($_SESSION['user'])){
     <link rel="stylesheet" href="Publics/vendor4/font-awesome4/css/font-awesome.css">
     <link rel="stylesheet" href="Publics/css/style.css">
     <link rel="stylesheet" href="Publics/navigation.css">
-    <link rel="stylesheet" href="Publics/css/accueil.css">
 
 
 </head>
@@ -27,7 +26,7 @@ if(!isset($_SESSION['user'])){
 
     <div class="container-fluid">
         
-        <nav class="navbar navbar-fixed-top loader-hidden" id="mainNav" style="background-color:#d4adfb;">
+        <nav class="navbar navbar-fixed-top loader-hidden" id="mainNav">
         <div class="container ">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarResponsive">
@@ -36,20 +35,23 @@ if(!isset($_SESSION['user'])){
                     <span class="icon-bar"></span>                        
                 </button>
                 <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                    <img class="img" id="logoC" src="Publics/images/LOGOESELAS.png" alt="Logo ">
+                    <img class="img" id="logo" src="Publics/image/page3-img1.png" alt="Logo ">
                 </a>
             </div>
         
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                    <a href="francais" class="btn btn-info">français</a>
+                        <a href="#menu1" class="js-scroll-trigger">Menu1</a>
                     </li>
                     <li>
                         <a href="#menu2" class="js-scroll-trigger">Menu2</a>
                     </li>
                     <li>
                         <a href="#menu3" class="js-scroll-trigger">Menu3</a>
+                    </li>
+                    <li>
+                        <a href="#menu4" class="js-scroll-trigger">Menu4</a>
                     </li>
                     
                 </ul>
@@ -59,7 +61,7 @@ if(!isset($_SESSION['user'])){
        
     </div>
 
-    <div class="container"  style="margin-top: 50px;">
+    <div class="container" id="content">
                 <div class="row">
                 <section class="article">
                     <h2 class="text-center">Titre</h2>
@@ -101,7 +103,7 @@ if(!isset($_SESSION['user'])){
                             </section>
                         </div>
                 </div>  
-
+<a href="francais" class="btn btn-info">français</a>
                 <footer>
                     <h5> <a href="#"> Lien </a> </h5>
                     <p>Lorem ipsum dolor sit amet consectetur adipisici</p>
