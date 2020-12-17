@@ -1,0 +1,16 @@
+.session_user {
+    font-size: large;
+    font-style: italic;
+    color: cornflowerblue;
+    font-weight: bolder;
+    opacity: 0.4;
+}
+
+li {
+    margin-left: 2px;
+}
+
+.float_droite {
+    position: relative;
+    left: 500px;
+}

@@ -1,0 +1,11 @@
+.session_user {
+    font-size: large;
+    font-style: italic;
+    color: cornflowerblue;
+    font-weight: bolder;
+    opacity: 0.3;
+}
+
+li {
+    margin-left: 2px;
+}
